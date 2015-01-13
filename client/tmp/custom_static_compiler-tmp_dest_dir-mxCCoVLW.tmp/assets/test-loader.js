@@ -1,0 +1,1 @@
+/Users/wired/nodeserver/EmberCLI_2/contacts-ember-hapi/client/tmp/tree_merger-tmp_dest_dir-w14kqj0y.tmp/bower_components/ember-cli-test-loader/test-loader.js
