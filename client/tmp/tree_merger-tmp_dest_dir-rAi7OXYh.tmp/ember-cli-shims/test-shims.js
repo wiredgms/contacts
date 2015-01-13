@@ -1,0 +1,1 @@
+/Users/wired/nodeserver/EmberCLI_2/contacts-ember-hapi/client/tmp/custom_static_compiler-tmp_dest_dir-IwkLmQAO.tmp/ember-cli-shims/test-shims.js

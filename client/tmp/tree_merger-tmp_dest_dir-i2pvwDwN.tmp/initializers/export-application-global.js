@@ -1,0 +1,1 @@
+/Users/wired/nodeserver/EmberCLI_2/contacts-ember-hapi/client/tmp/tree_merger-tmp_dest_dir-86NbEgeC.tmp/initializers/export-application-global.js
